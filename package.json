@@ -10,6 +10,7 @@
     }
   ],
   "main": "./server.js",
+  "private": true,
   "keywords": [
     "azure",
     "boilerplate",
